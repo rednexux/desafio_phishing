@@ -11,7 +11,7 @@
 
 [](https://github.com/cassiano-dio/cibersecurity-desafio-phishing#configurando-o-phishing-no-kali-linux)
 
-- Acesso root: `sudo su`
+- Acesso root: `su`
 - Iniciando o setoolkit: `setoolkit`
 - Tipo de ataque: `Social-Engineering Attacks`
 - Vetor de ataque: `Web Site Attack Vectors`
